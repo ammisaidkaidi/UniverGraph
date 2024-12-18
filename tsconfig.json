@@ -1,0 +1,20 @@
+{
+    "exclude": ["*.d.ts"],
+    "include": ["./graph.ts"],
+
+    "watchOptions": {
+        
+    },
+    "buildOptions": {
+        
+    },
+    "compilerOptions": {
+        "sourceMap": true,
+        "declarationMap": true,
+        "declaration": true,
+        "module": "Preserve",
+        "target": "ES2016",
+        "lib": ["ES2018.Promise","WebWorker.ImportScripts","dom", "DOM.Iterable"],
+        "moduleResolution": "bundler"
+    }
+}

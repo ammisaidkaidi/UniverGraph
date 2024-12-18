@@ -1,0 +1,13 @@
+{
+  "name": "UniverveGraph",
+  "version": "1.0.0",
+  "main": "graph.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "types": "./graph.d.ts",
+  "description": "","type":"module",
+  "pricing": "Free","publisher": "Achour Brahim","displayName": "X-TaskGraph"
+}
